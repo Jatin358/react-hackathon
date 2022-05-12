@@ -1,0 +1,84 @@
+{
+    "laptops": [
+      {
+        "title": "Lenovo IdeaPad 3 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15IML05 Thin and Light Laptop  (15.6 Inch, Platinum Grey, 1.7 kg, With MS Office)",
+        "processor": "Intel Core i3 10th Gen",
+        "hardDrive": "256 GB",
+        "ram" : "8 GB",
+        "date": "28-Apr-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=70"
+      },
+      {
+        "title": "Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Aurora Green, 1.48 kg)",
+        "processor": "Intel Core i3 10th Gen",
+        "hardDrive": "256 GB",
+        "ram" : "8 GB",
+        "date": "29-Apr-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/kw3v0cw0/computer/7/f/t/inbook-x1-thin-and-light-laptop-infinix-original-imag8vfsvgu6jqxz.jpeg?q=70"
+      },
+      {
+        "title": "HP Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 10 Home) 15s-GY0501AU Thin and Light Laptop  (15.6 inch, Natural Silver, 1.69 kg, With MS Office)",
+        "processor": "Intel Core i3 10th Gen",
+        "hardDrive": "256 GB",
+        "ram" : "8 GB",
+        "date": "27-Apr-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/ktaeqvk0/computer/b/7/4/15s-gy0501au-thin-and-light-laptop-hp-original-imag6z6muntqnzzc.jpeg?q=70"
+      },
+      {
+        "title": "ASUS ROG Strix G15 (2021) Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) G513IH-HN086T Gaming Laptop  (15.6 inch, Eclipse Gray, 2.10 Kg)",
+        "processor": "Ryzen 7 Octa Core",
+        "hardDrive": "512 GB",
+        "ram" : "8 GB",
+        "date": "30-Apr-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/ko382a80/computer/b/v/u/na-gaming-laptop-asus-original-imag2mrvrxgsaahh.jpeg?q=70"
+      },
+      {
+        "title": "Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Starfall Grey, 1.48 kg)",
+        "processor": "Intel Core i3 10th Gen",
+        "hardDrive": "256 GB",
+        "ram" : "8 GB",
+        "date": "25-Apr-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/kw104nk0/computer/z/7/t/inbook-x1-pro-thin-and-light-laptop-infinix-original-imag8shw6pfzuc4e.jpeg?q=70"
+      },
+      {
+        "title": "HP Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 15s- fq4021TU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office)",
+        "processor": "Intel Core i3 11th Gen",
+        "hardDrive": "512 GB",
+        "ram" : "8 GB",
+        "date": "04-May-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/kzrbiq80/computer/r/x/b/-original-imagbzyyca4m8fhk.jpeg?q=70"
+      },
+      {
+        "title": "ASUS VivoBook 15 (2022) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515JA-EJ362WS Thin and Light Laptop  (15.6 inch, Transparent Silver, 1.80 kg, With MS Office)",
+        "processor": "Intel Core i3 10th Gen",
+        "hardDrive": "512 GB",
+        "ram" : "8 GB",
+        "date": "10-May-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/ksyz8280/computer/f/9/9/x515ea-ej302ts-thin-and-light-laptop-asus-original-imag6fc9kxzc6rrh.jpeg?q=70"
+      },
+      {
+        "title": "Lenovo Ideapad Gaming 3 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Onyx Black, 2.2 kg)",
+        "processor": "Ryzen 5 Hexa Core",
+        "hardDrive": "256 GB",
+        "ram" : "8 GB",
+        "date": "10-May-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/kk2wl8w0/computer/f/k/b/na-gaming-laptop-lenovo-original-imafzgdkvx9guy8q.jpeg?q=70"
+      },
+      {
+        "title": "Infinix INBook X1 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 11 Home) XL11 Thin and Light Laptop  (14 inch, Noble Red, 1.48 kg)",
+        "processor": "Intel Core i3 10th Gen",
+        "hardDrive": "256 GB",
+        "ram" : "8 GB",
+        "date": "08-May-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/kw3v0cw0/computer/j/q/f/inbook-x1-thin-and-light-laptop-infinix-original-imag8vfssyyfzvku.jpeg?q=70"
+      },
+      {
+        "title": "DELL Inspiron Ryzen 5 Hexa Core R5-5500U - (8 GB/512 GB SSD/Windows 11 Home) Inspiron 7415 2 in 1 Laptop  (14 inch, Pebble Green, 1.56 Kg, With MS Office)",
+        "processor": "Ryzen 5 Hexa Core",
+        "hardDrive": "512 GB",
+        "ram" : "8 GB",
+        "date": "22-Apr-2022",
+        "urlToImage": "https://rukminim2.flixcart.com/image/416/416/kpft18w0/computer/d/d/y/inspiron-7415-2-in-1-laptop-dell-original-imag3nzeagzyhdh3.jpeg?q=70"
+      }
+    ]
+  }
